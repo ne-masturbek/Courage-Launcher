@@ -1,13 +1,17 @@
 # Courage-Launcher
 
-<img width="1920" height="1080" alt="{6D2A26D3-4E42-4B90-A0FF-E8970699F7F0}" src="https://github.com/user-attachments/assets/71b34f00-deae-46c9-9997-e6fab09ab816" />
+<img width="1920" height="1080" alt="{DBDF6DE2-8409-4593-A2C1-F4705F514FF1}" src="https://github.com/user-attachments/assets/fae77d8b-ac8d-453b-845e-1d349b16d3d3" />
 
-<img width="1920" height="1080" alt="{C1A623CF-0257-42E1-A940-97403D2E719D}" src="https://github.com/user-attachments/assets/958f07e9-82fe-4d21-ab5c-bfe5a424b3e0" />
+<img width="1920" height="1080" alt="{404964F4-B220-4684-9FAF-18162C1814F6}" src="https://github.com/user-attachments/assets/9f0033f6-dbb6-47bd-b1d3-0d6a468c5cbf" />
 
-<img width="1920" height="1080" alt="{A174E416-8582-412D-9807-6FCF174B46EF}" src="https://github.com/user-attachments/assets/7aa5fd20-a764-4ecf-beed-7b96cc92c0ac" />
+<img width="1920" height="1080" alt="{E394B098-AB04-4D32-9176-8648E9FF3464}" src="https://github.com/user-attachments/assets/22cc4a4d-55ba-49c4-b83e-cd349e778e2f" />
 
-<img width="1920" height="1080" alt="{AB437733-E174-482F-A04E-6B359A073F23}" src="https://github.com/user-attachments/assets/b39bb689-9d33-4fcf-add7-7c03df11a41c" />
+<img width="1920" height="1080" alt="{C6159353-A423-4F77-A16F-C1C75D58574C}" src="https://github.com/user-attachments/assets/f1c74006-ab49-4b2f-a654-1e7aa5fc4609" />
 
-<img width="1920" height="1080" alt="{FF40E748-0254-458D-9693-47958B4C3210}" src="https://github.com/user-attachments/assets/3a637ae2-75d4-46c3-876e-abf209d69f0e" />
+<img width="1920" height="1080" alt="{9E6888DB-7934-489F-A302-AE2268F1832D}" src="https://github.com/user-attachments/assets/780206f8-7163-4509-a2d1-f8d69cf44c8c" />
 
-<img width="1920" height="1080" alt="{A8F66C3D-A9FA-426E-9605-476D08DC1D4F}" src="https://github.com/user-attachments/assets/d7705315-26e8-43da-a986-73c5da8d9d84" />
+<img width="1920" height="1080" alt="{F5AE258E-BEFB-4C98-8434-78AA1FAEF7A6}" src="https://github.com/user-attachments/assets/7a31ddd8-3995-49dd-9add-fa8438264065" />
+
+<img width="1920" height="1080" alt="{38849F0D-6F32-4A34-A199-7F7EC0433CCE}" src="https://github.com/user-attachments/assets/b591ac72-e1a8-4c07-bbe3-f81924c3b9fe" />
+
+<img width="1920" height="1080" alt="{B0333BE8-3EA1-4F8B-9AC7-DD0D8B452DDE}" src="https://github.com/user-attachments/assets/94d0fd2b-fd2e-4111-9276-f0b237006edd" />
